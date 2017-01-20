@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #b4c157
+}
+
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+
+#home-image{
+    margin-bottom: 15px;
+}
+
+#main-section{
+    text-align: center;
+}
+
+.features{
+    text-align: center;
+    margin: 40px 0px;
+}
